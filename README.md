@@ -2,7 +2,7 @@
 
 ### 1. Dataset
 
-Source code: [here](https://github.com/minhphuongzzz/DS105-final-project/blob/main/src/data_collection.ipynb)
+Source code: [here](https://github.com/twelfthywn/NaturalDisasterForecastingSystem/blob/main/src/data_collection.ipynb)
 
 - Bộ dữ liệu gốc: *Global Landslide Catalog* 
 
@@ -20,19 +20,19 @@ Source code: [here](https://github.com/minhphuongzzz/DS105-final-project/blob/ma
 
 ### 2. Data preprocessing
 
-Source code: [here](https://github.com/minhphuongzzz/DS105-final-project/blob/main/src/data_preprocessing.ipynb)
+Source code: [here](https://github.com/twelfthywn/NaturalDisasterForecastingSystem/blob/main/src/data_preprocessing.ipynb)
 
 Các bước tiền xử lý bao gồm: xử lý các thuộc tính dạng *datetime*, loại bỏ các cột chứa thông tin không cần thiết, và xử lý missing values.
 
 ### 3. EDA
 
-Source code: [here](https://github.com/minhphuongzzz/DS105-final-project/blob/main/src/EDA.ipynb)
+Source code: [here](https://github.com/twelfthywn/NaturalDisasterForecastingSystem/blob/main/src/EDA.ipynb)
 
 Các bước phân tích thăm dò bao gồm: thống kê mô tả, phân tích trực quan dữ liệu theo thời gian (time series), phân tích tổng hợp thuộc tính, phân tích trực quan trên bản đồ địa lý.
 
 ### 4. Feature selection, Feature engineering and Model development
 
-Source code: [here](https://github.com/minhphuongzzz/DS105-final-project/blob/main/src/model_development.ipynb)
+Source code: [here](https://github.com/twelfthywn/NaturalDisasterForecastingSystem/blob/main/src/model_development.ipynb)
 
 #### Feature selection
 
