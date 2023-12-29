@@ -36,7 +36,7 @@ Source code: [here](https://github.com/twelfthywn/NaturalDisasterForecastingSyst
 
 #### Feature selection
 
-Các thuộc tính được lựa chọn để đưa vào mô hình dựa vào kết quả sau khi phân tích thăm dò, kết hợp với hai phương pháp thống kê là *One way ANOVA* và *Chi-square test*.
+Các thuộc tính được lựa chọn để đưa vào mô hình dựa vào kết quả sau khi phân tích thăm dò, kết hợp với Impotance selection score
 
 #### Feature engineering
 
